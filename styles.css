@@ -406,7 +406,7 @@ span{
     padding-top: 4vh; */
     padding: 200px 0;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     nav{
         display: none;
     }
@@ -424,8 +424,8 @@ span{
         height: auto;
     }
     .home-content{
-        margin-left: 2rem;
-        margin-right: 2rem;
+        margin-left: 2.5rem;
+        margin-right: 2.5rem;
     }
     .content-holder{
         display: block;
