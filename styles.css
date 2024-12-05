@@ -411,9 +411,12 @@ span{
         display: none;
     }
     section{
-        margin: 10px;
+        margin: 15px;
     }
-    
+    h1{
+        
+        width: 90vw;
+    }
 
     /* .pfp-container{
         height: fit-content;
@@ -423,9 +426,10 @@ span{
         width: 80vw;
         height: auto;
     }
-    .home-content{
-        margin-left: 2.5rem;
-        margin-right: 2.5rem;
+    .home-content .social-icons, .btn{
+        margin-left: 1.5rem;
+        
+        
     }
     .content-holder{
         display: block;
